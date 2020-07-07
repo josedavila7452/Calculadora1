@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Calculadora1</string>
+    <string name="app_name">Calculadora</string>
+    <string name="app_pan">Resultado</string>
+    <string name="app_lim">Limpiar</string>
+    <string name="app_des">Deshacer</string>
+    <string name="app_sum">+</string>
+    <string name="app_res">-</string>
+    <string name="app_mul">x</string>
+    <string name="app_div">/</string>
+    <string name="app_0">0</string>
+    <string name="app_1">1</string>
+    <string name="app_2">2</string>
+    <string name="app_3">3</string>
+    <string name="app_4">4</string>
+    <string name="app_5">5</string>
+    <string name="app_6">6</string>
+    <string name="app_7">7</string>
+    <string name="app_8">8</string>
+    <string name="app_9">9</string>
+    <string name="app_pun">.</string>
+    <string name="app_cer">Cerrar</string>
 </resources>
